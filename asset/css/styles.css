@@ -402,12 +402,12 @@ h2 span {
   transition: 1s;
   cursor: pointer;
 }
-.work__img img:hover{
+.work__img img:hover {
   transform: scale(1.1);
 }
 
 /* ===== CONTACT =====*/
-.contact__input{
+.contact__input {
   width: 100%;
   font-size: var(--normal-font-size);
   font-weight: var(--font-semi);
@@ -417,7 +417,7 @@ h2 span {
   outline: none;
   margin-bottom: var(--mb-4);
 }
-.contact__button{
+.contact__button {
   display: block;
   border: none;
   outline: none;
